@@ -122,6 +122,10 @@ Este desafio tem como objetivo auxiliar pessoas desenvolvedoras que buscam oport
     - Escreva testes unitários utilizando Mocha ou Jest.
     - Utilize a biblioteca **`supertest`** para testar as requisições à API.
     - Considere o uso de **`sinon`** para criar stubs e espiões durante os testes.
+4. **Documentação da API:**
+    - Adicione uma seção detalhada no README (ou faça da maneira como preferir) explicando como os usuários podem interagir com a API.
+    - Utilize exemplos de requisições, parâmetros necessários e formatos de resposta.
+    - Considere incluir exemplos de uso com ferramentas como Swagger.
 
 ## **Critérios de Avaliação**
 
@@ -136,3 +140,4 @@ Este desafio tem como objetivo auxiliar pessoas desenvolvedoras que buscam oport
 - **Variáveis de Ambiente:** Utilize variáveis de ambiente para configurar o projeto de maneira flexível.
 - **Git:** Mantenha um histórico de commits organizado, exclua arquivos desnecessários do repositório.
 - **README Detalhado:** Forneça um guia claro e completo sobre como configurar, executar e interagir com o projeto.
+- **Documentação da API:** Inclua uma seção detalhada no README explicando como os usuários podem interagir com a API, com exemplos de requisições e formatos de resposta.
