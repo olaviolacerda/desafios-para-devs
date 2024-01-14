@@ -75,6 +75,8 @@ Encorajamos as pessoas desenvolvedoras a interagirem, compartilharem suas soluç
 
 Sinta-se à vontade para contribuir adicionando novos desafios, propondo melhorias nas soluções existentes ou oferecendo sugestões para aprimorar a estrutura do repositório. Juntas, podemos criar um recurso valioso para a comunidade de pessoas desenvolvedoras.
 
+Verifique a página de [Contribuição](docs/CONTRIBUTING.md) e o [Código de Conduta](docs/CODE_OF_CONDUCT.md).
+
 ## Contato
 
 Estou disponível para trocar ideias, esclarecer dúvidas e ajudar no que for possível. Sinta-se à vontade para me contatar via e-mail (contact@olavio.dev) ou através das issues deste repositório. Vamos construir conhecimento juntos!
