@@ -7,7 +7,7 @@ Boas-vindas ao nosso repositório dedicado a desafios de programação, projetad
     + [Múltiplas Linguagens](#múltiplas-linguagens)
     + [Comunidade Ativa](#comunidade-ativa)
 * [Desafios](#desafios)
-* [Como Contribuir](#como-contribuir)
+* [Quero contribuir com o projeto](#quero-contribuir-com-o-projeto)
 * [Contato](#contato)
 * [Autores](#autores)
 
@@ -45,40 +45,40 @@ Encorajamos as pessoas desenvolvedoras a interagirem, compartilharem suas soluç
             <td>
                 <a href="/backend/iniciante/nodejs/index.md">NodeJS</a>
             </td>
-            <td>Em breve</td>
-            <td>Em breve</td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
         </tr>
         <tr>
-            <td>Em breve</td> 
-            <td>Em breve</td>
-            <td>Em breve</td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td> 
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
         </tr>
         <tr>
             <td rowspan="2">Médio</td>
-            <td>Em breve</td>
-            <td>Em breve</td>
-            <td>Em breve</td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
         </tr>
         <tr>
-            <td>Em breve</td> 
-            <td>Em breve</td>
-            <td>Em breve</td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td> 
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
         </tr>
         <tr>
             <td rowspan="2">Avançado</td>
-            <td>Em breve</td>
-            <td>Em breve</td>
-            <td>Em breve</td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
         </tr>
         <tr>
-            <td>Em breve</td> 
-            <td>Em breve</td>
-            <td>Em breve</td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td> 
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
+            <td><a style="color:orange;" href="#quero-contribuir-com-o-projeto">Contribuir<a></td>
         </tr>
     </tbody>
 </table>
 
-## Como Contribuir
+## Quero contribuir com o projeto
 
 Sinta-se à vontade para contribuir adicionando novos desafios, propondo melhorias nas soluções existentes ou oferecendo sugestões para aprimorar a estrutura do repositório. Juntas, podemos criar um recurso valioso para a comunidade de pessoas desenvolvedoras.
 
