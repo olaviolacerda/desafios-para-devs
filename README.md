@@ -36,6 +36,7 @@ Encorajamos as pessoas desenvolvedoras a interagirem, compartilharem suas soluç
             <th>Nível</th>
             <th>Backend</th>
             <th>Frontend</th>
+            <th>Mobile</th>
         </tr>
     </thead>
     <tbody>
@@ -45,27 +46,33 @@ Encorajamos as pessoas desenvolvedoras a interagirem, compartilharem suas soluç
                 <a href="/backend/iniciante/nodejs/index.md">NodeJS</a>
             </td>
             <td>Em breve</td>
+            <td>Em breve</td>
         </tr>
         <tr>
             <td>Em breve</td> 
+            <td>Em breve</td>
             <td>Em breve</td>
         </tr>
         <tr>
             <td rowspan="2">Médio</td>
             <td>Em breve</td>
             <td>Em breve</td>
+            <td>Em breve</td>
         </tr>
         <tr>
             <td>Em breve</td> 
+            <td>Em breve</td>
             <td>Em breve</td>
         </tr>
         <tr>
             <td rowspan="2">Avançado</td>
             <td>Em breve</td>
             <td>Em breve</td>
+            <td>Em breve</td>
         </tr>
         <tr>
             <td>Em breve</td> 
+            <td>Em breve</td>
             <td>Em breve</td>
         </tr>
     </tbody>
